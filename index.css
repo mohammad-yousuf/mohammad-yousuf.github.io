@@ -8,6 +8,12 @@
     font-weight: 400;
     src: url('./fonts/HKGrotesk-Regular.woff') format('woff');
 }
+.about__photo {
+    width: 300px; /* Adjust this value to control the size */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: Make the image circular */
+    object-fit: cover; /* Ensures the image fits within the container */
+}
 
 @font-face {
     font-family: 'Jost';
