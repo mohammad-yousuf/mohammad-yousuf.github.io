@@ -1,3 +1,5 @@
 ## Portfolio
 
-Click on the link in the top right.
+[Visit My Portfolio](https://mohammad-yousuf.github.io/)
+
+Check out my projects and experience on my portfolio site.
